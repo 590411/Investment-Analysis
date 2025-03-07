@@ -7,7 +7,8 @@
 -  [Project Overview](#project-overview)
 -  [Data Sources](#data-sources)
 -  [Tools](#tools)
--    
+
+    
 ### Project overview
 --- 
 ---- **Delivrables**
@@ -95,7 +96,6 @@ weighting = RELATED(dimSecurity[Weighting])
 Porfolio value = factActivity[weighting]*factActivity[Close] 
         
 ```
-
 
 💻💻  
 
